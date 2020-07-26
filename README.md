@@ -1,11 +1,18 @@
-# Wonderful
+# Wonderful II
 
-A wonderful code theme for Xcode and PyCharm.
+My code theme for Xcode. Similar to Atom One Dark but a bit more muted. Designed to be easy on the eyes.
 
-### Xcode demo
+![Example 1](Example1.png)
 
-![demo-xcode.png](demo-xcode.png)
+![Example 2](Example2.png)
 
-### PyCharm demo
+## How to install
 
-![demo-pycharm.png](demo-pycharm.png)
+1. Quit Xcode
+2. Download `Wonderful II.xccolortheme` and put it into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`, creating any folders that don't already exist
+3. Relaunch Xcode and open preferences
+4. Select "Wonderful II" under the Themes tab
+
+
+
+## 
